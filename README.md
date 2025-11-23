@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Suhas
 
-<!--
-**IkkIsuhas/IkkIsuhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI & ML enthusiast focused on building machine learning models and exploring AI agents.  
+Currently learning **Deep Learning with PyTorch** and improving my skills across the ML stack.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Doing
+- Learning & implementing Deep Learning (PyTorch)
+- Practicing ML model building (sklearn, data pipelines)
+- Learning Java + Spring Boot for backend development
+- Building small AI agent experiments
+
+---
+
+## 🛠️ Tools & Technologies I Use
+**Languages:** Python, Java  
+**Frameworks:** PyTorch, scikit-learn, Spring Boot  
+**Databases:** PostgreSQL  
+**DevOps & Tools:** Docker, Git, Postman, VS Code  
+
+---
+
+## 🎯 Interests & Goals
+- Build end-to-end ML systems  
+- Explore agentic workflows  
+- Create AI-powered applications  
+
+---
+
+## 📬 Reach Me
+- **Email:** suhasm004@gmail.com  
+- **LinkedIn:** [linkedin.com/in/suhas-dev](https://www.linkedin.com/in/suhas-dev/)  
+- **Portfolio:** [ikkisuhas.github.io/1portfolio](https://ikkisuhas.github.io/1portfolio/)  
+
+---
