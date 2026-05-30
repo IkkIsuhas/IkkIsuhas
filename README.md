@@ -2,20 +2,19 @@
 
 I'm an AI & ML enthusiast focused on building machine learning models and exploring AI agents.  
 Currently learning **Deep Learning with PyTorch** and improving my skills across the ML stack.
-
+and building RAG pipelines
 ---
 
 ## 🚀 What I'm Doing
 - Learning & implementing Deep Learning (PyTorch)
 - Practicing ML model building (sklearn, data pipelines)
-- Learning Java + Spring Boot for backend development
-- Building small AI agent experiments
+- Building AI agent and RAG based Application
 
 ---
 
 ## 🛠️ Tools & Technologies I Use
 **Languages:** Python, Java  
-**Frameworks:** PyTorch, scikit-learn, Spring Boot  
+**Frameworks:** PyTorch, scikit-learn, Spring Boot, Langchain, Langgraph
 **Databases:** PostgreSQL  
 **DevOps & Tools:** Docker, Git, Postman, VS Code  
 
