@@ -16,7 +16,7 @@ and building RAG pipelines
 **Languages:** Python, Java  
 **Frameworks:** PyTorch, scikit-learn, Spring Boot, Langchain, Langgraph
 **Databases:** PostgreSQL  
-**DevOps & Tools:** Docker, Git, Postman, VS Code  
+**DevOps & Tools:** Docker, Git, Postman, VS Code, Google Anti-gravity, N8N, Claude code 
 
 ---
 
