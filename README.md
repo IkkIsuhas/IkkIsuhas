@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Suhas
 
 ### I'm an AI & ML enthusiast focused on building machine learning models and exploring AI agents.  
-Currently learning **Deep Learning with PyTorch** and improving my skills across the ML stack.
-and building RAG pipelines
+### Currently learning **Deep Learning with PyTorch** and improving my skills across the ML stack.
+### and building RAG pipelines
 ---
 
 ## 🚀 What I'm Doing
